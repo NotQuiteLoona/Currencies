@@ -6,7 +6,7 @@ Converts any currency to any other. Made because the built-in Unit Converter KRu
 
 Doesn't show matches for ECB currencies, so you won't get duplicated results with both Unit Converter and this plugin enabled.
 
-Exchange rates are updated either on KRunner restart/plugin reload, or if daily.
+Exchange rates are updated either on KRunner restart/plugin reload, or daily.
 
 [**Supported currencies list here.**](https://www.exchangerate-api.com/docs/supported-currencies)
 
