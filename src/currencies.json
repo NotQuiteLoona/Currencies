@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "%{EMAIL}",
+                "Name": "%{AUTHOR}"
+            }
+        ],
+        "Description": "Currencies runner",
+        "EnabledByDefault": true,
+        "Icon": "planetkde",
+        "License": "LGPL 2.1+",
+        "Name": "Currencies",
+        "Version": "0.1"
+    }
+}
