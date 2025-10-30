@@ -2,15 +2,15 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "%{EMAIL}",
-                "Name": "%{AUTHOR}"
+                "Email": "notquiteloona@hotmail.com",
+                "Name": "Dina Sakharova"
             }
         ],
-        "Description": "Currencies runner",
+        "Description": "Currencies",
         "EnabledByDefault": true,
-        "Icon": "planetkde",
-        "License": "LGPL 2.1+",
+        "Icon": "format-currency",
+        "License": "EUPL-1.2",
         "Name": "Currencies",
-        "Version": "0.1"
+        "Version": "1.0"
     }
 }
